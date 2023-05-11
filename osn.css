@@ -1,0 +1,1446 @@
+
+html{
+    width:100vw;
+}
+.logo1{ position:relative;
+    top:-185%;
+ 
+   
+    
+}
+.texth3{
+    color:white;
+    font-family: Chivo Mono,monospace;
+font-style: bold;
+font-weight: 100;
+font-size: 15px;
+line-height: 12px;
+    position:relative;
+    top:40%;
+}
+.textage{color:white;
+    position:relative;
+    font-family: Chivo Mono,monospace;
+font-style: bold;
+font-weight: 100;
+font-size: 15px;
+line-height: 12px;
+    top:40%;}
+    .textprice{
+        color:white;
+        font-family: Chivo Mono,monospace;
+font-style: bold;
+font-weight: 100;
+font-size: 15px;
+line-height: 12px;
+        position:relative;
+        top:40%; }
+.logo{
+    position:sticky;
+padding-bottom:-100px;
+
+
+
+
+
+
+
+}
+    .text3{
+        position: absolute;
+width: 260px;
+height: 138px;
+left: 20px;
+top: 160px;
+
+font-family: Chivo Mono,monospace;
+font-style: bold;
+font-weight: 500;
+font-size: 10px;
+line-height: 12px;
+       
+        color: #000000;
+        }
+        .text2{
+            
+    position: absolute;
+    width: 260px;
+    height: 138px;
+    left: 20px;
+    top: 160px;
+    
+    font-family: Chivo Mono,monospace;
+    font-style: bold;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 12px;
+           
+            color: #000000;}
+ .image1{position: absolute;
+        width: 400px;
+        height: 180px;
+        left:3px;
+        top: 43px;
+        
+        background: url(20191.png);
+
+    }
+    #t0{top:10px; 
+        background-image:url(1911.png) ;}
+    #t1{ top:10px;
+        background-image:url(21.png) ;}
+    #t2{top:10px;
+        background-image:url(22.png) ;}
+    #t3{ top:10px;
+        background-image:url(23.png) ;}
+    #t4{top:10px; 
+        background-image:url(24.png) ;}
+    #t5{ top:10px;
+        background-image:url(26.png) ;}
+    #k0{top:10px; 
+   background-image:url(30.png) ;
+}
+#k1{top:10px; 
+    background-image:url(311.png) ;}
+    #k2{top:10px; 
+        background-image:url(322.png) ;}
+        #k3{top:-10px;
+            height:225px;  
+            background-image:url(33.png) ;}
+            #k4{top:20px; 
+                background-image:url(36.png) ;}
+                #k5{top:-10px; 
+                    height:225px ;
+                    background-image:url(37.png) ;}
+
+#j0{top:10px;
+   
+    background-image:url(20.png) ;
+}
+#j1{ top:-10px;
+    background-image:url(e66.png) ;}
+#j2{ top:-10px;
+    background-image:url(e5.png) ;}
+    .imgphoto{position: absolute;
+        width: 300px;
+        height: 150px;
+        left:3px;
+        top: 35px;}
+    
+    .text2{
+
+        position: absolute;
+        width: 261px;
+        height: 98px;
+        left: 67px;
+        top: 225px;
+        
+        font-family: Chivo Mono,monospace;
+        font-style: bold;
+        font-weight: 500;
+        text-align: center;
+        font-size: 20px;
+        line-height: 12px;
+color: rgb(0, 0, 0);
+
+transform: rotate(0.09deg);
+    }
+   .image9
+        {
+position: absolute;
+width: 400px;
+height: 225px;
+margin-left:-30px; 
+top: 20px;
+
+background: url(1card2.png);
+background-repeat: no-repeat;
+
+        }
+        .image1{margin-left:-30px;}
+        
+        .image2{position: absolute;
+            width: 400px;
+            height: 225px;
+            left: 0px;
+            top: 0px;
+            margin-left:-30px; 
+            background: url(1card.png);
+        background-repeat: no-repeat;
+
+        }
+        .izbr0sn{
+            position: relative;
+           
+            background-size: cover;
+            width:100% ;
+            height: 788px;
+            background-image:url(E:/курсач/cSS/audi0sn0.jpg) ;
+            background-repeat: no-repeat;
+            z-index:1;
+        }
+        .botomizo{
+            position: relative;
+           top:20%; 
+width: 80%;
+height: 960px;
+left:10%;
+
+background-size: cover;
+
+
+background: url(image.jpg);
+background-repeat: no-repeat;
+        }
+        .textizo{
+            position: absolute;
+width: 80%;
+height: 20%;
+left: 10%;
+top: 823px;
+
+font-family: Chivo Mono,monospace;
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 48px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+        }
+        .botom{
+position: relative;
+       top:250px;
+width: 101%;
+height: 500px;
+left:-1%;
+bottom:-20% ;
+
+
+
+
+
+
+background: #000000;}
+.m1{position: relative;
+    display:inline;
+    width: 10%;
+    height: 34px;
+    left: 38px;
+    top: 5%;
+    
+    font-family: Chivo Mono,monospace;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #FFFFFF;
+    }
+    .m2{position: relative;
+        width: 95px;
+        height: 34px;
+        left: 40px;
+       
+        
+        font-family: Chivo Mono,monospace;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        
+        color: #FFFFFF;
+        }
+    .m3{position: relative;
+        width: 95px;
+        height: 34px;
+        left: 40px;
+        margin: 0; 
+        
+        font-family: Chivo Mono,monospace;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        
+        color: #FFFFFF;}
+    .m4{position: relative;
+        width: 95px;
+        height: 34px;
+        left: 40px;
+        margin: 0; 
+        
+        font-family: Chivo Mono,monospace;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        
+        color: #FFFFFF;
+        }
+    .m5{position: relative;
+        width: 95px;
+        height: 34px;
+        left: 40px;
+        margin: 0; 
+        
+        font-family: Chivo Mono,monospace;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        
+        color: #FFFFFF;}
+    .m6{position: relative;
+        width: 95px;
+        height: 34px;
+        left: 40px;
+        margin: 0; 
+        
+        font-family: Chivo Mono,monospace;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        
+        color: #FFFFFF;}
+
+    .m7{position: relative;
+        width: 95px;
+        height: 34px;
+        left: 40px;
+        margin: 0; 
+        
+        font-family: Chivo Mono,monospace;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        margin: 0; 
+        color: #FFFFFF;
+        }
+    .m8{position: relative;
+        width: 95px;
+        height: 34px;
+        left: 170px;
+        top:-1.5%;
+        margin: 0; 
+        font-family: Chivo Mono,monospace;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        
+        color: #FFFFFF;
+        }
+
+    .m9{position: relative;
+        width: 458px;
+        height: 153px;
+        left: 170px;
+       top:-40%;
+       margin: 0; 
+        font-family: Chivo Mono,monospace;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 24px;
+        
+        color: #FFFFFF;
+        }
+    .m10{position: relative;
+        width: 303px;
+        height: 34px;
+        left: 655px;
+        top: -7%;
+        
+        font-family: Chivo Mono,monospace;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        text-align: center;
+        margin: 0; 
+        color: #FFFFFF;}
+
+    .m11{position: relative;
+        width: 270px;
+        height: 24px;
+        left: 690px;
+        top: -70%;
+        margin: 0; 
+        font-family: Chivo Mono,monospace;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        
+        color: #FFFFFF;}
+        .m12{position: relative;
+            width: 230px;
+            height: 19px;
+            left: 690px;
+            top: -69%;
+            margin: 0; 
+            font-family: Chivo Mono,monospace;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 20px;
+            line-height: 24px;
+            
+            color: #FFFFFF;}
+        .m13{position: relative;
+            width: 251px;
+            height: 15px;
+            left: 690px;
+            top: -68%;
+            margin: 0; 
+            font-family: Chivo Mono,monospace;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 20px;
+            line-height: 24px;
+            
+            color: #FFFFFF;}
+        .m14{position: relative;
+            width: 87px;
+            height: 39px;
+            left: 85%;
+            right:20%;
+            top: -14%;
+            
+            margin: 0; 
+            font-family: Chivo Mono,monospace;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 20px;
+            line-height: 24px;
+            display:inline;
+            color: #FFFFFF;
+            }
+    .m15{position: relative;
+        width: 95%;
+        height: 0px;
+        left: 38.62px;
+        
+        top: -29%;
+        margin: 0; 
+        border: 2px solid #FFFFFF;
+        }
+        .m16{position: relative;
+            width: 460px;
+            height: 37px;
+            left: 40px;
+            top: -29%;
+            display:inline;
+            font-family: Chivo Mono,monospace;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 20px;
+            line-height: 24px;
+            
+            color: #FFFFFF;
+            }
+            .m1:hover, .m2:hover ,.m3:hover, .m4:hover, .m5:hover, .m6:hover, .m7:hover, .m8:hover, .m9:hover, .m10:hover, .m11:hover, .m12:hover ,.m13:hover ,.m14:hover, .m16:hover{
+color:red;
+            }
+
+.facebook{
+    position: relative;
+width: 58px;
+height: 59px;
+left: 75%;
+top: -50%;
+
+
+}
+.instagram{
+    position: relative;
+width: 60px;
+height: 60px;
+left: 94%;
+top: -84%;
+
+background: url(inst.png);
+}
+.telegram{position: relative;
+    width: 60px;
+    height: 60px;
+    left: 88%;
+top: -60%;
+    
+
+}
+.wk{
+    position: relative;
+width: 60px;
+height: 60px;
+left: 82%;
+top: -72.5%;
+
+
+}
+
+.topbl{
+   
+   position: sticky;
+    display:flex;
+    top:-1px;
+    margin:-10px;
+    left: -10px;
+    right: -20px;
+    bottom: -20px;
+width: 102%;
+height: 88px;
+
+
+z-index:9999;
+background: black;
+}
+.logob{
+    
+}
+.logo12{
+    position: relative;
+   margin:0px 0px 0px 0px;
+width: 150px;
+height: 100px;
+left: 85%;
+top: -140%;
+background-repeat:no-repeat;
+    
+}
+.new{
+            
+            background-color: white;
+ position: relative;
+width: 230px;
+height: 65px;
+left:20px;
+top: 80%;
+
+font-family: Chivo Mono,monospace;
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 39px;
+display: flex;
+align-items: center;
+text-align: center;
+z-index:8888;
+color: #000000;
+         }
+         
+         .textnew{
+            position: relative;
+            left:20px;
+
+         }
+         ul{display: inline;}
+         li{display: inline;}
+         .tp1{
+            position: relative;
+            left:-6%;
+            top:54%;
+         }
+         .menu{ 
+            position:relative;
+            left:15%;}
+     .menu ul{
+    
+            font-family: Chivo Mono,monospace;
+            display:flex;
+            gap:72px;
+         }
+         .menu ul li {
+            list-style-type:none ;
+        
+         }
+         .menu  ul li a{
+            font-size: 20px;
+            font-weight: 700;
+            text-decoration: none;
+            text-transform: uppercase;
+            color: white;
+          
+            transition: 0.5s ease;
+         }
+         .menu ul:hover li a{
+            color:red;
+
+         }
+         .menu ul:hover li a:not(:hover){
+            color:white;
+            opacity: 0.3;
+            
+         }
+         .menuosn{
+
+            z-index:  9999; ;
+            display:flex;
+            position:sticky;
+            
+            left:25%;
+         }
+         @font-face {
+            font-family: 'Chivo Mono';
+            src: url('E:/курсач/fonts/ChivoMono-Medium.woff') format('woff'); 
+            font-weight: normal;
+            font-style: normal;
+        }
+        .allcard{
+            width:100% ;
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+        .card1{
+            
+            
+            position:relative;
+           display:flex;
+            top :10px;
+            background-color:rgb(255, 255, 255);
+            width:400px ;
+            height:600px ;
+        }
+        .card2{
+            position:relative;
+            display:flex;
+            
+            top :10px;
+            background-color: rgb(255, 255, 255);
+            width:400px ;
+            height:600px ;
+        }
+        .card3{
+            position:relative;
+           display:flex;
+            
+            top :10px;
+            background-color: rgb(255, 255, 255);
+            width:400px ;
+            height:600px ;
+        }
+        .button{
+            
+            position:relative;
+            left :15%;
+            margin-left:3%;
+            top:50%;
+            width: 40%;
+            height: 50px;
+            background-color: rgba(196, 186, 186, 0.559);
+            border-radius:50px ;
+        }
+        .button:hover{
+            -webkit-transform: scale(1.05);
+            -ms-transform: scale(1.05);
+            transform: scale(1.05);
+        }
+        
+          .textbut{
+            position: relative;
+            display:block;
+            left: 0%;
+            top:0%;
+            text-align: center;
+            font-family: Chivo Mono,monospace;
+    font-style: bold;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 12px;
+          }
+         
+          @media   (max-width: 500px)  {
+            #b0{left:5%;}
+            .imgphoto{position: absolute;
+                width: 300px;
+                height: 150px;
+                left:23px;
+                top: 35px;}
+            #b1{left:5%;}
+            #b2{left:5%;}
+            #b3{left:5%;}
+            #b4{left:5%;}
+            #b5{left:5%;}
+            #b6{left:5%;}
+            #b7{left:5%;}
+            #b8{left:5%;}
+            #b9{left:5%;}
+            #b10{left:5%;}
+            #b11{left:5%;}
+            #b12{left:5%;}
+            #b13{left:5%;}
+            #b14{left:5%;}
+            #b15{left:5%;}
+
+            .image9{
+                background-repeat: no-repeat;
+                width:100%;
+                left:5%}
+            .image1{
+                background-repeat: no-repeat;
+                width:100%;
+                left:5%;
+            }
+            .image2{
+                background-repeat: no-repeat;
+                width:100%;
+                left:5%;
+            }
+           .lightizo{
+                position: relative;
+                left:1.5%;
+            
+                margin:0% 22% 0% 0%;
+                width: 100%;
+                height:768px ;
+                
+            background: url("E:/курсач/kartinki-mashiny-audi-20.jpg");
+            background-repeat: no-repeat;
+            }
+            .la{
+                width:100px ;
+                position: absolute;
+                left:500px;
+                top:100px;
+                font-family: Chivo Mono,monospace;
+            font-style: normal;
+            font-weight: 700;
+            font-size: 19px;
+            line-height: 39px;
+            
+            align-items: center;
+            text-align: center;
+            }
+            .tovar1{
+                
+                display: flex;
+                flex-wrap: wrap;
+                flex-direction: row;
+                justify-content:space-between;
+                width:100% ;
+                height:40% ;
+                top:100px;
+                
+            }
+            .tovar2{
+                
+                display: flex;
+                flex-wrap: wrap;
+                flex-direction: row;
+                justify-content:space-between;
+                width:100% ;
+                height:40% ;
+                top:100px;
+                
+            }
+            .tovar3{
+                position: relative;
+                display: flex;
+                flex-wrap: wrap;
+                flex-direction: row;
+                justify-content:space-between;
+                width:90% ;
+                left:10%;
+                height:220% ;
+                top:110%;
+                
+            }
+            .podtovar{
+                position: relative;
+                margin:70px ;
+                padding:70px ;
+                width:200px ;
+                height: 300px;
+                background-color:black ;
+                border-radius: 40px;
+            }
+            
+            .button1{
+                
+                        position: relative;
+                        left:-100px;
+                        margin-left:-30px ;
+                        top:120px;
+                        width: 120%;
+                        height: 25px;
+                        background-color: white;
+                        border-radius:50px ;
+                        justify-content: center;
+            }
+              .botomizo{
+                overflow: hidden;
+              }
+            .button1{position:relative;
+                right:25% ;
+            
+            }
+            .tovar1{
+                justify-content:center ;
+            }
+            .tovar2{
+                justify-content:center ;
+            }
+            .tovar3{
+                 
+            }
+            .podtovar{
+                justify-content: center;
+                left:5%;
+                margin:10px 10px 10px 10px ;
+            }
+            .new{ left:20%
+            }
+            
+            .logo12{
+                left: 40%;
+top: -59%;
+            }
+            .m14{
+                left: 65%;
+            
+            top: 40%;
+            }
+            .m8{
+                left:37%;
+            }
+            .m10{ 
+                font-size: 18px;
+                width:60%;
+                left:37%;
+                top:22%;
+            }
+            .m11{ 
+                font-size: 18px;width:60%;
+                left:37%;
+                top:-30%;
+            }
+            .m12{font-size: 18px;
+                width:60%; left:37%;
+                top:-30%;}
+                .m13{width:60%;
+                    font-size: 18px;
+                    left:37%;
+                    top:-30%;
+                }
+               .m1{top:3.5%;;
+               }
+               .m2{top:-8%;}
+               .m3{ top:-7%;}
+               .m4{top:-6%;}
+               .m5{top:-5%;}
+               .m6{top:-4%;}
+               .m7{top:-3%;}
+            .botom{position:relative ;
+                top:20px;
+left:-3.2%;
+                margin:0.5% ;
+                width:115.8%;
+                height:700px ;
+            }
+            .topbl{
+                width:116%;
+            }
+            .m15{
+                width:80%;
+                top:10%;
+            }
+            .m16{
+                display:block;
+                width:40% ;
+                top:10%;
+                font-size: 18px;
+            }
+            .facebook{
+                position: relative;
+            width: 58px;
+            height: 59px;
+            left: 8%;
+            top: -35%;
+            
+            
+            }
+            .botomizo{
+                bottom: -10%;
+                left:-2%;
+                right:0% ;
+                width:115%;
+            }
+            .textizo{
+                top:80%;
+                font-size:20px ;
+            }
+            .instagram{
+                position: relative;
+            width: 60px;
+            height: 60px;
+            left: 8%;
+            top: -50%;
+            
+            background: url(inst.png);
+            }
+            .telegram{position: relative;
+                width: 60px;
+                height: 60px;
+                left: 8%;
+            top: -25%;
+                
+            
+            }
+            .allcard{top:-1%;
+                width: 112%;
+            justify-content: center;}
+            .card1{
+             left:0%;
+                width: 100%;
+            }
+            .card2{
+                left:0%;
+                width: 100%;
+            }
+            .card3{
+                left:0%;
+                width: 100%;
+            }
+            .wk{
+                position: relative;
+            width: 60px;
+            height: 60px;
+            left: 8%;
+            top: -25%;
+            
+            
+            }
+            .text2{
+                left:15%;
+            }
+            .button{
+                left:25%;
+            }
+            .m9{
+                left:37%;
+                width:60%;
+                font-size: 12px;
+            }
+            .men1{position:relative;
+                left:-60%;
+                visibility: hidden;
+                
+            }
+            .men2 {
+                position:relative;
+                visibility: hidden;
+                left:-20%;
+            }
+            .men2 a {color:black;}
+            .men3 a{color:black;}
+            .men3{
+                left:20%;
+                visibility: hidden;
+            }
+            .menuosn{
+                width:80% ;
+            }
+           
+             .izbr0sn{ z-index: 8888;
+                left:-2%;
+                width: 112%;}
+          
+          
+          .menu {
+            background-color: black;
+            padding: 10px;
+          }
+          
+          .menu ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+          }
+          
+          .menu ul li {
+            display: inline-block;
+            position: relative;
+            margin-right: 10px;
+          }
+          
+          .menu ul li a {
+            display: block;
+            padding: 10px;
+            text-decoration: none;
+            color: white;
+          }
+          
+          .menu ul li:hover > ul {
+            display: block;
+          }
+          
+          .menu ul ul {
+            display: none;
+            position: absolute;
+            background-color: black;
+            padding: 0;
+            margin: 0;
+            left: 0;
+            top: 100%;
+            z-index: 1;
+          }
+          
+          .menu ul ul li {
+            display: block;
+            margin: 0;
+          }
+          
+          .menu ul ul li a {
+            display: block;
+            padding: 10px;
+            text-decoration: none;
+            color: white;
+          }
+          
+          .menu ul ul ul {
+            left: 100%;
+            top: 0;
+            margin-left: 10px;
+            margin-top: 0;
+          }
+          
+          .menu ul ul li:hover > ul {
+            display: block;
+          }
+        }
+        @media (min-width:781px) and (max-width:1040px){
+            .logo12{
+                
+                left: 40%;
+top: -122%;
+            }
+
+            .logo1{
+                width:150px;
+                top:-144%;
+            }
+            
+            .menu{
+                left:-2%
+            }
+            .imgphoto{
+                left:8%;
+            }
+            .m14{ left:64%;
+            top:35%;}
+            .facebook{
+                top:-49%;
+            }
+            .botom{
+                padding-right:1% ;
+                padding-bottom: 13%;
+            }
+            .botomizo
+            {left:0%;
+                top:10%;
+                width:100%;
+            }
+             /*ligh.html*/
+        
+        .la{
+            width:100px ;
+            position: absolute;
+            left:500px;
+            top:100px;
+            font-family: Chivo Mono,monospace;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 19px;
+        line-height: 39px;
+        
+        align-items: center;
+        text-align: center;
+        }
+        .tovar1{
+            
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: row;
+            justify-content:space-between;
+            width:100% ;
+            height:40% ;
+            top:100px;
+            
+        }
+        .tovar2{
+            
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: row;
+            justify-content:space-between;
+            width:100% ;
+            height:40% ;
+            top:100px;
+            
+        }
+        .tovar3{
+            
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: row;
+            justify-content:space-around;
+            width:100% ;
+            height:120% ;
+            top:100px;
+            
+        }
+        .podtovar{
+            position: relative;
+            margin:70px ;
+            padding:70px ;
+            width:200px ;
+            height: 300px;
+            background-color:black ;
+            border-radius: 40px;
+        }
+        
+        .button1{
+            
+                    position: relative;
+                    left:25%;
+                    top:120px;
+                    margin-left:-65px;
+                    width: 120%;
+                    height: 25px;
+                    background-color: rgb(231, 229, 229);
+                    border-radius:50px ;
+                    justify-content: center;
+        }
+        .text2{
+            margin-left:-5% ;
+        }
+ .button{
+    margin-left:10% ;
+ }       
+        }
+        @media (min-width:1041px) and (max-width:2040px){
+            .botom{
+                padding-bottom: 5%;
+                padding-right:1.3% ;
+            }
+        .menuosn{
+            left:-15%;
+        }       
+    .botomizo{
+        position: relative;
+        top:200px;
+    }
+.allcard{
+    position: relative;
+    top:150px;
+}
+.facebook{
+    top:-49%;
+}
+.m14{
+    left:88%;
+}
+.lightizo{
+    position: relative;
+    left:-0.05%;
+
+   
+    width:100%;
+    height:768px ;
+    background-repeat: no-repeat;
+background: url("E:/курсач/kartinki-mashiny-audi-20.jpg");
+}
+.la{
+    width:100px ;
+    position: absolute;
+    left:500px;
+    top:100px;
+    font-family: a,monospace;
+font-style: normal;
+font-weight: 700;
+font-size: 19px;
+line-height: 39px;
+
+align-items: center;
+text-align: center;
+}
+.tovar1{
+    position:relative;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content:space-between;
+    width:100% ;
+    height:40% ;
+    top:2%;
+    
+    
+}
+.tovar2{
+    position:relative;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content:space-between;
+    width:100% ;
+    height:40% ;
+    top:2%;
+    
+    
+}
+.tovar3{
+    position:relative;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content:space-between;
+    width:100% ;
+    height:40% ;
+    top:2%;
+    
+    
+}
+.podtovar{
+    position: relative;
+    margin:50px ;
+    padding:50px ;
+    width:200px ;
+    height: 300px;
+    background-color:black;
+    border-radius: 40px;
+}
+
+.button1{
+    
+            position: relative;
+            left:25%;
+            top:120px;
+            margin-left:-30%;
+            width: 100%;
+            height: 25px;
+            background-color: rgb(231, 229, 229);
+            border-radius:50px ;
+            justify-content: center;
+}
+.text2{margin-left:-8%; }
+.button{margin-left:5% ;}}
+@media (min-width:501px) and (max-width:780px){
+    .m9{
+        width:30%;
+    }
+    .logob{
+        height:150px;
+    }
+    .logo12{left:70%;
+    top:-113%
+}
+    .m10{left:60%;}
+    .m12{left:65%;}
+    .m11{left:65%;}
+    .m13{left:65%;}
+    .m14{top:30%;
+        left:60%;
+    }
+    .m15{width: 90%;}
+    .topbl{padding-right:1% ;}
+    .botom{
+        top:20px;
+        position:relative;
+        padding-left: 1%;
+        padding-bottom:12% ;
+        padding-right:0.7% ;
+    }
+    .botomizo{
+        left:0%;
+        width:100% ;
+    }
+    .facebook{top:-48%;
+        left:20%;
+    }
+
+    .instagram{left:30%;}
+    .telegram{left:40%;}
+    .wk{left:50%;}
+    .menu {
+        background-color: black;
+        padding: 10px;
+      }
+      
+      .menu ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+      }
+      
+      .menu ul li {
+        display: inline-block;
+        position: relative;
+        margin-right: 10px;
+      }
+      
+      .menu ul li a {
+        display: block;
+        padding: 10px;
+        text-decoration: none;
+        color: white;
+      }
+      
+      .menu ul li:hover > ul {
+        display: block;
+      }
+      
+      .menu ul ul {
+        display: none;
+        position: absolute;
+        background-color: black;
+        padding: 0;
+        margin: 0;
+        left: 0;
+        top: 100%;
+        z-index: 1;
+      }
+      
+      .menu ul ul li {
+        display: block;
+        margin: 0;
+      }
+      
+      .menu ul ul li a {
+        display: block;
+        padding: 10px;
+        text-decoration: none;
+        color: white;
+      }
+      
+      .menu ul ul ul {
+        left: 100%;
+        top: 0;
+        margin-left: 10px;
+        margin-top: 0;
+      }
+      
+      .menu ul ul li:hover > ul {
+        display: block;
+      }
+      .lightizo{
+        position: relative;
+        left:-0.05%;
+    
+       
+        width:100%;
+        height:768px ;
+        background-repeat: no-repeat;
+    background: url("E:/курсач/kartinki-mashiny-audi-20.jpg");
+    }
+    .la{
+        width:100px ;
+        position: absolute;
+        left:500px;
+        top:100px;
+        font-family: Chivo Mono,monospace;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 39px;
+    
+    align-items: center;
+    text-align: center;
+    }
+    .tovar1{
+        position:relative;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content:space-between;
+        width:100% ;
+        height:40% ;
+        top:2%;
+        
+        
+    }
+    .tovar2{
+        position:relative;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content:space-between;
+        width:100% ;
+        height:40% ;
+        top:2%;
+        
+        
+    }
+    .tovar3{
+        position:relative;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content:space-around;
+        width:100% ;
+
+        height:140% ;
+        top:2%;
+        
+        
+    }
+   
+    .podtovar{
+        position: relative;
+        margin:40px ;
+        padding:40px ;
+        width:200px ;
+
+
+        height: 300px;
+        background-color:black;
+        border-radius: 40px;
+    }
+    
+    .button1{
+        
+                position: relative;
+                left:25%;
+
+                margin-left:-45px ;
+                top:120px;
+                width: 200px;
+                height: 25px;
+                background-color: rgb(231, 229, 229);
+                border-radius:50px ;
+                justify-content: center;
+    }
+    .button{width:50%; }
+    .text2{margin-left:-5%;}
+
+    
+}
